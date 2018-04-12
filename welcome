@@ -5,3 +5,6 @@ with out commiting
 
  now i opend welcome file for checking the git branch and i have created
  the new branch as feature.
+
+now i am writing this line to check the pull command is working or not.
+when ever some one is made changes in the poject and commited i need to get the data from the global remote repositary.
